@@ -1,3 +1,4 @@
+![Space Invaders Unity DOTS](https://github.com/DeepLeau/space_invaders_unity/blob/main/Assets/asteroides.png)
 
 # 3D Space Shooter with Unity DOTS
 
