@@ -56,11 +56,3 @@ This project is not yet complete, and several key gameplay elements are still un
 ## Acknowledgments
 
 This project draws inspiration from the **Space Shooter ECS** project in Python with Pygame. The goal is to bring similar gameplay mechanics to a 3D environment while leveraging the power of Unity DOTS for scalability and performance.
-
----
-
-**Note**: This project is incomplete and primarily serves as a foundation for a more complex 3D game. Contributions and feedback are welcome!
-
-For any questions or suggestions, feel free to open an issue or contact me directly.
-
-**Stay tuned for updates!**
