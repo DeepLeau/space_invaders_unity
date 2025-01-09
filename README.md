@@ -36,7 +36,7 @@ This project is not yet complete, and several key gameplay elements are still un
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/space-shooter-dots.git
+   git clone https://github.com/DeepLeau/space-shooter-dots.git
    ```
 
 2. Open the project in Unity.
